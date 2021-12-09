@@ -1,0 +1,55 @@
+0.125 (31, 0.7916666666666666)
+1:
+  http://identifiers.org/ctd.gene/100033407
+  http://identifiers.org/ctd.gene/10003
+  http://identifiers.org/ctd.gene/10006
+  http://identifiers.org/ctd.gene/100008588
+  http://identifiers.org/ctd.gene/10002
+  http://identifiers.org/ctd.gene/10
+  http://identifiers.org/ctd.gene/100048903
+  http://identifiers.org/ctd.gene/100008586
+  http://identifiers.org/ctd.gene/100033806
+  http://identifiers.org/ctd.gene/100049707
+  http://identifiers.org/ctd.gene/1000
+  http://identifiers.org/ctd.gene/100038246
+  http://identifiers.org/ctd.gene/100038247
+  http://identifiers.org/ctd.gene/100034700
+  http://identifiers.org/ctd.gene/100049716
+  http://identifiers.org/ctd.gene/100008589
+  http://identifiers.org/ctd.gene/100033413
+  http://identifiers.org/ctd.gene/10007
+  http://identifiers.org/ctd.gene/100009675
+  http://identifiers.org/ctd.gene/10004
+  http://identifiers.org/ctd.gene/100
+  http://identifiers.org/ctd.gene/100009667
+  http://identifiers.org/ctd.gene/100048908
+  http://identifiers.org/ctd.gene/100049542
+  http://identifiers.org/ctd.gene/100049159
+  http://identifiers.org/ctd.gene/100049587
+  http://identifiers.org/ctd.gene/100049544
+  http://identifiers.org/ctd.gene/100049579
+  http://identifiers.org/ctd.gene/1
+  http://identifiers.org/ctd.gene/100037417
+  http://identifiers.org/ctd.gene/10000
+  http://identifiers.org/ctd.gene/100048912
+  http://identifiers.org/ctd.gene/100009613
+  http://identifiers.org/ctd.gene/100034703
+  http://identifiers.org/ctd.gene/10005
+  http://identifiers.org/ctd.gene/100033819
+  http://identifiers.org/ctd.gene/100033431
+  -> cluster name: 1?gene
+2:
+  http://identifiers.org/idot/AccessPattern
+  http://www.w3.org/2000/01/rdf-schema#Class
+  http://identifiers.org/mesh/T046
+  http://biotop.googlecode.com/svn/trunk/umlssn.owl#
+  http://purl.bioontology.org/ontology/STY/T046
+  http://rdf.disgenet.org/v7.0.0/void/umlsSTY
+  http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16612
+  http://www.w3.org/TR/owl-features/
+  http://bio2rdf.org/mesh:T046
+  http://semanticscience.org/resource/SIO_000326
+  http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43817
+  http://www.nlm.nih.gov/research/umls/META3_current_semantic_types.html
+  -> cluster name: 2?t046
+
